@@ -32,4 +32,4 @@ At weKnow we have been using Gatsby with Drupal for projects as our decouple str
 * gatsby-remark-codepen (plugin)
 * gatsby-remark-twitch (plugin)
 * gatsby-starter-drupal-boina (starter)
-* gatsby-theme-drupal-boina (theme)
+* gatsby-theme-markdown-boina (theme)

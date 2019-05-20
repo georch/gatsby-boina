@@ -40,7 +40,7 @@ exports.onCreateWebpackConfig = ({
         },
         {
           test: /\.js$/,
-          include: path.dirname(require.resolve('@weknow/gatsby-theme-drupal-boina')),
+          include: path.dirname(require.resolve('@weknow/gatsby-theme-markdown-boina')),
           use: [loaders.js()]
         }
       ]

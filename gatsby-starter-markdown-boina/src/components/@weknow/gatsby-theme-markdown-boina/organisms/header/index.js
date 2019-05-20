@@ -2,7 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import { Link } from 'gatsby';
 import './style.scss';
-import Button from '@weknow/gatsby-theme-drupal-boina/src/components/atoms/button';
+import Button from '@weknow/gatsby-theme-markdown-boina/src/components/atoms/button';
 
 const Header = ({
   scrolled, isMobile, showSidebar, darkMenu

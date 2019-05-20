@@ -58,7 +58,6 @@ module.exports = {
       resolve: 'gatsby-transformer-remark',
       options: {
         plugins: [
-          '@weknow/gatsby-remark-drupal',
           '@weknow/gatsby-remark-twitter',
           'gatsby-remark-embed-video',
           'gatsby-remark-responsive-iframe',
